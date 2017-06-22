@@ -7,11 +7,11 @@
 
 #### v3.0.x branch
 
-![un](https://raw.githubusercontent.com/mapnik/state-of-the-flags/master/flags/v3.0.x/un.svg)
-![un](/flags/v3.0.x/un.svg?raw=true)
+![un](https://raw.githubusercontent.com/mapnik/state-of-the-flags/master/flags/v3.0.x/un.png)
+![un](/flags/v3.0.x/un.png?raw=true)
 
 #### svg-strict-parsing branch
 
-![un](https://raw.githubusercontent.com/mapnik/state-of-the-flags/master/flags/svg-strict-parsing/un.svg)
+![un](https://raw.githubusercontent.com/mapnik/state-of-the-flags/master/flags/svg-strict-parsing/un.png)
 
 
