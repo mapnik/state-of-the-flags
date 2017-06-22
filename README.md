@@ -12,7 +12,7 @@
 | <img src="/flags/v3.0.x/cc.png?raw=true" width="400" height="300" alt="cc"/> | <img src="/flags/svg-strict-parsing/cc.png?raw=true" width="400" height="300" alt="cc"/>|
 | <img src="/flags/v3.0.x/cm.png?raw=true" width="400" height="300" alt="cm"/> | <img src="/flags/svg-strict-parsing/cm.png?raw=true" width="400" height="300" alt="cm"/>|
 | <img src="/flags/v3.0.x/cw.png?raw=true" width="400" height="300" alt="cw"/> | <img src="/flags/svg-strict-parsing/cw.png?raw=true" width="400" height="300" alt="cw"/>|
-|<img src="/flags/v3.0.x/cw.png?raw=true" width="400" height="300" alt="cw"/> | <img src="/flags/svg-strict-parsing/cw.png?raw=true" width="400" height="300" alt="cw"/>|
+|<img src="/flags/v3.0.x/cx.png?raw=true" width="400" height="300" alt="cx"/> | <img src="/flags/svg-strict-parsing/cx.png?raw=true" width="400" height="300" alt="cx"/>|
 |<img src="/flags/v3.0.x/dm.png?raw=true" width="400" height="300" alt="dm"/> | <img src="/flags/svg-strict-parsing/dm.png?raw=true" width="400" height="300" alt="dm"/>|
 |<img src="/flags/v3.0.x/eg.png?raw=true" width="400" height="300" alt="eg"/> | <img src="/flags/svg-strict-parsing/eg.png?raw=true" width="400" height="300" alt="eg"/>|
 |<img src="/flags/v3.0.x/je.png?raw=true" width="400" height="300" alt="je"/> | <img src="/flags/svg-strict-parsing/je.png?raw=true" width="400" height="300" alt="je"/>|
